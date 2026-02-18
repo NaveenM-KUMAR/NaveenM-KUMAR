@@ -14,14 +14,14 @@
     I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
     From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
   </p>
-<p>
+<p align="center" style="white-space: nowrap;">
   <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
   <a href="mailto:Naveenmkumar77@gmail.com">
     <img src="https://img.shields.io/badge/📧_Naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/🎓_Computer_Science_Engineering_Student-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Java_|_DSA_|_SQL_|_Web_Dev-1e1e2e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Open_to_Internships_&_Collaboration-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_CSE_Student-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Java_|_DSA_|_SQL-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Open_to_Internships-1e1e2e?style=for-the-badge" />
 </p>
 
 
