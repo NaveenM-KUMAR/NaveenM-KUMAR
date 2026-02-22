@@ -18,7 +18,12 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:naveen@example.com"><img src="https://img.shields.io/badge/📧_naveen@example.com-1e1e2e?style=for-the-badge" /></a>
+
+    <!-- Updated Email -->
+    <a href="mailto:Naveenmkumar77@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Java/Spring_Projects)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge" />
   </p>
@@ -30,7 +35,8 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/naveenmk">
+  <!-- Updated LinkedIn Vanity URL -->
+  <a href="https://www.linkedin.com/in/naveenm-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
