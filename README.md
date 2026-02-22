@@ -16,18 +16,16 @@
     My goal is to create smooth user experiences while continuously learning and upgrading my skill set.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+ <p>
+  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
 
-    
-   <a href="mailto:naveenmkumar77@gmail.com">
- 
-  <img src="https://img.shields.io/badge/📧_Naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
-</a>
+  <a href="mailto:naveenmkumar77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
+  </a>
 
-<img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Java/Spring_Projects)-1e1e2e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge" />
-  </p>
+  <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Java/Spring_Projects)-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge" />
+</p>
 </div>
 
 <br clear="all" />
