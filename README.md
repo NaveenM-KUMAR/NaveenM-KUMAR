@@ -21,8 +21,7 @@
 
     
    <a href="mailto:naveenmkumar77@gmail.com">
-  <img src="https://img.shields.io/badge/📧_naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
-</a>
+ 
   <img src="https://img.shields.io/badge/📧_Naveenmkumar77@gmail.com-1e1e2e?style=for-the-badge" />
 </a>
 
